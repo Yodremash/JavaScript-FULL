@@ -11,4 +11,4 @@ export function getItemsArray() {
 }
 
 getItemsArray();
-getItemList();
+getItemsList();
